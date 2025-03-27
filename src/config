@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+email=160516478@qq.com
+name=newkillerwhale
+[remote "origin"]
+	url = https://github.com/newkillerwhale/pointlio_unilidar_ros.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
